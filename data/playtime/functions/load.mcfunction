@@ -7,3 +7,6 @@ scoreboard objectives add Ticks dummy
 scoreboard objectives add Minutes dummy
 scoreboard objectives add Hours dummy
 scoreboard objectives add Days dummy
+
+scoreboard objectives add Deaths deathCount
+scoreboard objectives add DeathsPerDay dummy
